@@ -2,11 +2,11 @@
 
 This project is a comprehensive SQL-based hospital billing system designed to demonstrate database management, querying, and reporting skills using PostgreSQL.
 
-## 📁 Project Structure
+##  Project Structure
 
 - `billing_in_hospital.sql`: Contains the full SQL code to create the database, tables, insert data, and implement views, joins, subqueries, and advanced SQL features.
 
-## 📌 Features Implemented
+##  Features Implemented
 
 - Database creation
 - Table creation for:
@@ -24,13 +24,13 @@ This project is a comprehensive SQL-based hospital billing system designed to de
   - Views
   - Indexes
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - PostgreSQL
 - SQL (Intermediate to Advanced)
 - Ubuntu Terminal
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone this repository:
    ```bash
