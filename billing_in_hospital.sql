@@ -180,4 +180,4 @@ hospital_billing_db-# nano hospital_billing_system.sql
 hospital_billing_db-# nano README.md
 hospital_billing_db-# # Hospital Billing System (PostgreSQL)
 
-This is a complete hospital billing management system built using PostgreSQL.
+Thank you for visiting my git profile and this project. This is a complete hospital billing management system built using PostgreSQL.
